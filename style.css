@@ -1,8 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Explora&display=swap');
 
 body { 
   display: flex; 
-  font-size: 500 px;
   flex-direction: column; 
   justify-content: center; 
   align-items: center; 
@@ -12,5 +11,10 @@ body {
   background-image: url("https://media.giphy.com/media/26ufmyrjQ4BmKN7xe/giphy.gif"); 
   background-repeat: no-repeat; 
   background-size: cover;
-  font-family: 'Dancing Script', cursive;
+  font-family: 'Explora', cursive;
+   }
+
+   p{
+     font-family: 'Dancing Script', cursive;
+      font-size: 100px;
    }
